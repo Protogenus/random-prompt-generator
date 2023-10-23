@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    cursor: grab;
 }
 
 .container {
@@ -24,7 +25,18 @@ button:hover {
     background-color: #0056b3;
 }
 
+
+#descript {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
 #output {
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+#instructions {
     margin-top: 20px;
     font-size: 20px;
 }
